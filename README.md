@@ -958,7 +958,15 @@ int main(int argc, char **argv)
 }
 ~~~
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+512
+<img width="1516" height="154" alt="image" src="https://github.com/user-attachments/assets/935e096f-0c97-4294-93bb-e7e850b9f373" />
+1024
+<img width="1491" height="159" alt="image" src="https://github.com/user-attachments/assets/24df18f0-565e-4551-b5a9-ac601cc42c1b" />
+1023
+<img width="1489" height="147" alt="image" src="https://github.com/user-attachments/assets/bd3e5b95-9f18-4fab-844e-7dbdd86a99c2" />
+256
+<img width="1481" height="150" alt="image" src="https://github.com/user-attachments/assets/1e5951be-7c3c-4180-8f3c-bfe8bc6b27b1" />
+
 
 ## RESULT:
 The difference is in GPU efficiency, not correctness.
